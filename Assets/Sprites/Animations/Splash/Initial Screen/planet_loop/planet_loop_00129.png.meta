@@ -26,7 +26,7 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: 29
+  textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
@@ -47,7 +47,7 @@ TextureImporter:
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 5
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
     serializedVersion: 2

@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: a5768ce1a69331b4eaf07e14abf85b18
+timeCreated: 1479634788
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tai chi B_W_00074
+    21300002: tai chi B_W_00062
+    21300004: tai chi B_W_00102
+    21300006: tai chi B_W_00060
+    21300008: tai chi B_W_00100
+    21300010: tai chi B_W_00084
+    21300012: tai chi B_W_00068
+    21300014: tai chi B_W_00096
+    21300016: tai chi B_W_00052
+    21300018: tai chi B_W_00054
+    21300020: tai chi B_W_00086
+    21300022: tai chi B_W_00076
+    21300024: tai chi B_W_00092
+    21300026: tai chi B_W_00098
+    21300028: tai chi B_W_00064
+    21300030: tai chi B_W_00082
+    21300032: tai chi B_W_00080
+    21300034: tai chi B_W_00088
+    21300036: tai chi B_W_00094
+    21300038: tai chi B_W_00090
+    21300040: tai chi B_W_00066
+    21300042: tai chi B_W_00078
+    21300044: tai chi B_W_00070
+    21300046: head_WOMAN
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tai chi B_W_00082
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00080
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00064
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00092
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 0
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00098
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00088
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 682
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00078
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 682
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00070
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 682
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00066
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00094
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2046
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00090
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2728
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00076
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3410
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00060
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1364
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00100
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1364
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00102
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1364
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00074
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2046
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00062
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2728
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00084
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 3410
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00054
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2046
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00086
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2046
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00052
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2728
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00068
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3410
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tai chi B_W_00096
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2728
+        width: 994
+        height: 682
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: head_WOMAN
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 3410
+        width: 960
+        height: 540
+      alignment: 9
+      pivot: {x: 0.46087646, y: 0.39268935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

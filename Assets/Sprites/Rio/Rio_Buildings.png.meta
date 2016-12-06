@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 1d783732fa8848e4c86cb846b7d7a656
+timeCreated: 1480328096
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2_Piano@1.4x_rio
+    21300002: 3_Piano@1.4x_rio
+    21300004: 1_Piano@1.4x_rio
+    21300006: Monte@1.4x_rio
+    21300008: Pan_sagoma@1.4x_rio
+    21300010: Favelas_sagoma@1.4x_rio
+    21300012: Favela_sx_@1.4x_rio
+    21300014: Cristo_sagoma@1.4x_rio
+    21300016: icon
+    21300018: icon-grey
+    21300020: Pan@1.4x_rio
+    21300022: Favela_dx@1.4x_rio
+    21300024: Cristo@1.4x_rio
+    21300026: Risorsa 3@1.4x
+    21300028: Risorsa 2@1.4x
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2_Piano@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2323
+        height: 1128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 3_Piano@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 2374
+        height: 1022
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1_Piano@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2150
+        width: 1885
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Monte@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 0
+        width: 926
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pan@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2960
+        width: 601
+        height: 1129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pan_sagoma@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2960
+        width: 596
+        height: 1129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Favela_dx@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 0
+        width: 653
+        height: 673
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Favelas_sagoma@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2960
+        width: 653
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Favela_sx_@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2150
+        width: 655
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 673
+        width: 440
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon-grey
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1712
+        width: 440
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cristo_sagoma@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1712
+        width: 317
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cristo@1.4x_rio
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1712
+        width: 259
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 3@1.4x
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 673
+        width: 319
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 2@1.4x
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1128
+        width: 1553
+        height: 584
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

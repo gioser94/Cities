@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: c32d9d8df259af743a4724254901e12f
+timeCreated: 1478112128
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: umbrellaLight_00050
+    21300002: umbrellaLight_00038
+    21300004: umbrellaLight_00031
+    21300006: umbrellaLight_00045
+    21300008: umbrellaLight_00036
+    21300010: umbrellaLight_00030
+    21300012: umbrellaLight_00037
+    21300014: umbrellaLight_00034
+    21300016: umbrellaLight_00042
+    21300018: umbrellaLight_00047
+    21300020: umbrellaLight_00026
+    21300022: umbrellaLight_00046
+    21300024: umbrellaLight_00029
+    21300026: umbrellaLight_00051
+    21300028: umbrellaLight_00033
+    21300030: umbrellaLight_00039
+    21300032: umbrellaLight_00044
+    21300034: umbrellaLight_00035
+    21300036: umbrellaLight_00032
+    21300038: umbrellaLight_00028
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: umbrellaLight_00050
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00038
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00031
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00045
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00036
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 544
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00030
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 544
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00037
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00034
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00042
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00047
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00046
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1088
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00029
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1088
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00051
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1632
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00033
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1632
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00039
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2176
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00044
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2720
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00035
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3264
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00032
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2176
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaLight_00028
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2720
+        width: 1088
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

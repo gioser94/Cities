@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 8e0d657fbf6d3534db25ae5f5195f6f4
+timeCreated: 1479920332
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Risorsa 23@1.4x
+    21300002: Risorsa 25@1.4x
+    21300004: Risorsa 17@1.4x
+    21300006: Risorsa 18@1.4x
+    21300008: Risorsa 20@1.4x
+    21300010: Risorsa 15@1.4x
+    21300012: Risorsa 14@1.4x
+    21300014: Risorsa 21@1.4x
+    21300016: Risorsa 24@1.4x
+    21300018: Risorsa 19@1.4x
+    21300020: Risorsa 16@1.4x
+    21300022: Risorsa 26@1.4x
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Risorsa 23@1.4x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2028
+        height: 912
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 25@1.4x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 2572
+        height: 565
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 17@1.4x
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 0
+        width: 1225
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 18@1.4x
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 378
+        width: 1225
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 20@1.4x
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 756
+        width: 1071
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 15@1.4x
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1135
+        width: 1071
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 14@1.4x
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 0
+        width: 565
+        height: 448
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 21@1.4x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1477
+        width: 565
+        height: 448
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 24@1.4x
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1477
+        width: 520
+        height: 461
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 19@1.4x
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 0
+        width: 242
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 16@1.4x
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 398
+        width: 242
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 26@1.4x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1925
+        width: 362
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

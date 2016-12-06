@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 040e0d7c7a5ec444287e9026cad02cef
+timeCreated: 1480268153
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LuciNotte@1.4x_venice
+    21300002: Colonne@1.4x_venice
+    21300004: 2_Piano@1.4x_venice
+    21300006: 1_Piano@1.4x_venice
+    21300008: Ducale_sagoma@1.4x_venice
+    21300010: SanMarco_sagoma@1.4x_venice
+    21300012: Rialto_sagoma@1.4x_venice
+    21300014: Campanile_sagoma@1.4x_venice
+    21300016: Rialto@1.4x_venice
+    21300018: SanMarco@1.4x_venice
+    21300020: Campanile
+    21300022: Ducale@1.4x_venice
+    21300024: Risorsa 1@1.4x
+    21300026: coats-02
+    21300028: coats-03
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LuciNotte@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2634
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Colonne@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 2853
+        height: 686
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 2_Piano@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1730
+        width: 2010
+        height: 770
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1_Piano@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1044
+        width: 1117
+        height: 613
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ducale_sagoma@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 996
+        height: 618
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SanMarco_sagoma@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3153
+        width: 870
+        height: 651
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rialto_sagoma@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1730
+        width: 819
+        height: 460
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Campanile_sagoma@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 0
+        width: 141
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rialto@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1730
+        width: 819
+        height: 466
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SanMarco@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2500
+        width: 872
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Campanile
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 0
+        width: 143
+        height: 986
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Ducale@1.4x_venice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 996
+        height: 620
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 1@1.4x
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2196
+        width: 464
+        height: 422
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coats-03
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 0
+        width: 1025
+        height: 1025
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

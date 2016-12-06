@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 2573f81d266dd1e48823b4e0e1ab7e4c
+timeCreated: 1480888441
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Risorsa 11@2x
+    21300002: Risorsa 15@2x
+    21300004: Risorsa 18@2x
+    21300006: Risorsa 5@2x
+    21300008: Risorsa 1@2x
+    21300010: Risorsa 16@2x
+    21300012: Risorsa 6@2x
+    21300014: Risorsa 20@2x
+    21300016: Risorsa 9@2x
+    21300018: Risorsa 3@2x
+    21300020: Risorsa 10@2x
+    21300022: Risorsa 7@2x
+    21300024: Risorsa 8@2x
+    21300026: Risorsa 2@2x
+    21300028: Risorsa 12@2x
+    21300030: Risorsa 13@2x
+    21300032: Risorsa 4@2x
+    21300034: Risorsa 19@2x
+    21300036: Risorsa 14@2x
+    21300038: Risorsa 17@2x
+    21300040: 2_Piano@1.4x_frisco
+    21300042: GGB_sagoma@1.4x_frisco
+    21300044: Grattacieli@1.4x_frisco
+    21300046: 3_Piano@1.4x_frisco
+    21300048: Edificio_sagoma@1.4x_frisco
+    21300050: China_sagoma@1.4x_frisco
+    21300052: 1_Piano@1.4x_frisco
+    21300054: Lombard_sagoma@1.4x_frisco
+    21300056: boat_00005
+    21300058: boat_00016
+    21300060: boat_00001
+    21300062: boat_00003
+    21300064: boat_00019
+    21300066: boat_00017
+    21300068: boat_00006
+    21300070: boat_00002
+    21300072: boat-top
+    21300074: boat_00010
+    21300076: boat_00004
+    21300078: boat_00014
+    21300080: boat_00023
+    21300082: boat_00025
+    21300084: boat_00009
+    21300086: boat_00021
+    21300088: boat_00007
+    21300090: boat_00018
+    21300092: boat_00000
+    21300094: boat_00008
+    21300096: boat_00024
+    21300098: boat_00020
+    21300100: boat_00022
+    21300102: boat_00011
+    21300104: boat_00015
+    21300106: boat_00012
+    21300108: boat_00013
+    21300110: Risorsa 2@1.4x
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Risorsa 11@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2855
+        width: 500
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 15@2x
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3363
+        width: 188
+        height: 520
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 18@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3363
+        width: 444
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 5@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1815
+        width: 676
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 1@2x
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 0
+        width: 1448
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 16@2x
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2311
+        width: 72
+        height: 520
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 6@2x
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1283
+        width: 380
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 20@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 812
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 9@2x
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1783
+        width: 120
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 3@2x
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2311
+        width: 76
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 10@2x
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2323
+        width: 280
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 7@2x
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1783
+        width: 100
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 8@2x
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2311
+        width: 96
+        height: 532
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 2@2x
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 795
+        width: 852
+        height: 488
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 12@2x
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1955
+        width: 508
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 13@2x
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 0
+        width: 424
+        height: 456
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 4@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 808
+        height: 504
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 19@2x
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3363
+        width: 128
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 14@2x
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1783
+        width: 132
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 17@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2323
+        width: 492
+        height: 532
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00005
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 963
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00016
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1047
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00001
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1131
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00003
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1283
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00019
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 879
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00017
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1367
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00006
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1367
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00002
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1451
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat-top
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 512
+        width: 964
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00010
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1451
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00004
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1283
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00014
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1535
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00023
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1535
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00025
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1619
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00009
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1619
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00021
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1871
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00007
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1703
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00018
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1703
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00000
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1787
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00008
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1787
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00024
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1871
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00020
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 795
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00022
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 795
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00011
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 879
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00015
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 963
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00012
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1047
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00013
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1131
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 2@1.4x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2212
+        height: 795
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

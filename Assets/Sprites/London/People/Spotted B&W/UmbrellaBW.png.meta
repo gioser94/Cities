@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: c9ad020cab1eb64448d0cd9881f3de1c
+timeCreated: 1478111949
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: umbrellaBW_00008
+    21300002: umbrellaBW_00015
+    21300004: umbrellaBW_00004
+    21300006: umbrellaBW_00009
+    21300008: umbrellaBW_00020
+    21300010: umbrellaBW_00006
+    21300012: umbrellaBW_00010
+    21300014: umbrellaBW_00007
+    21300016: umbrellaBW_00013
+    21300018: umbrellaBW_00002
+    21300020: umbrellaBW_00011
+    21300022: umbrellaBW_00017
+    21300024: umbrellaBW_00012
+    21300026: umbrellaBW_00014
+    21300028: umbrellaBW_00000
+    21300030: umbrellaBW_00016
+    21300032: umbrellaBW_00018
+    21300034: umbrellaBW_00005
+    21300036: umbrellaBW_00019
+    21300038: umbrellaBW_00001
+    21300040: umbrellaBW_00003
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: umbrellaBW_00008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00010
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00007
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 328
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00013
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 656
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00002
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 984
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00011
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1312
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00017
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1640
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00012
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00014
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 328
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00000
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 656
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00016
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 984
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00018
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1312
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00005
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1640
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00019
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00001
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: umbrellaBW_00003
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 328
+        width: 716
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

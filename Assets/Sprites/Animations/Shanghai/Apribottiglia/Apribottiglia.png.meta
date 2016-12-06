@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: d4f1a29f334cdea4d92d98be2eba91d0
+timeCreated: 1478078831
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: world-financial-center_00002
+    21300002: world-financial-center_00006
+    21300004: world-financial-center_00010
+    21300006: world-financial-center_00004
+    21300008: world-financial-center_00000
+    21300010: world-financial-center_00008
+    21300012: world-financial-center_00014
+    21300014: world-financial-center_00012
+    21300016: pearl-radio_00007
+    21300018: pearl-radio_00013
+    21300020: pearl-radio_00028
+    21300022: pearl-radio_00004
+    21300024: pearl-radio_00016
+    21300026: pearl-radio_00010
+    21300028: pearl-radio_00020
+    21300030: pearl-radio_00023
+    21300032: pearl-radio_00024
+    21300034: pearl-radio_00001
+    21300036: pearl-radio_00021
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: world-financial-center_00002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: world-financial-center_00006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1435
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: world-financial-center_00010
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: world-financial-center_00004
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1435
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: world-financial-center_00000
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: world-financial-center_00008
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1435
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: world-financial-center_00014
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: world-financial-center_00012
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1435
+        width: 301
+        height: 1434
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00007
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00013
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00028
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00004
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00016
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00010
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00020
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00023
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00024
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 0
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00001
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1434
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pearl-radio_00021
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1434
+        width: 300
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

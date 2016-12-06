@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 78c2d25a082b0a24e997d869cc3f1c2d
+timeCreated: 1478856982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pao-de-acucar_00008
+    21300002: pao-de-acucar_00003
+    21300004: pao-de-acucar_00000
+    21300006: pao-de-acucar_00001
+    21300008: pao-de-acucar_00006
+    21300010: pao-de-acucar_00007
+    21300012: pao-de-acucar_00002
+    21300014: pao-de-acucar_00004
+    21300016: pao-de-acucar_00005
+    21300018: pao-de-acucar_00009
+    21300020: pao-de-acucar_00011
+    21300022: pao-de-acucar_00010
+    21300024: cristo_00009
+    21300026: cristo_00011
+    21300028: cristo_00012
+    21300030: cristo_00004
+    21300032: cristo_00006
+    21300034: cristo_00007
+    21300036: cristo_00003
+    21300038: cristo_00010
+    21300040: cristo_00001
+    21300042: cristo_00008
+    21300044: cristo_00002
+    21300046: cristo_00005
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pao-de-acucar_00005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2260
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00010
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00011
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1130
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00009
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2260
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00000
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00003
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1130
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00008
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2260
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00007
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00006
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pao-de-acucar_00001
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 624
+        height: 1130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00009
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 0
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00011
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 269
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00012
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 538
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00004
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 807
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00006
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 1076
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3390
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3659
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00010
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3390
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00001
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3659
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00008
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3390
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00002
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3659
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cristo_00005
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3390
+        width: 274
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 5f283daccc3bdf54e9d76efbdb962f3f
+timeCreated: 1480589078
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_Piano@1.4x_london
+    21300002: Skyline@1.4x_london
+    21300004: Eye_sagoma@1.4x_london
+    21300006: 2_Piano@1.4x_london
+    21300008: Eye@1.4x_london
+    21300010: Shard_sagoma@1.4x_london
+    21300012: Gerkin_sagoma@1.4x_london
+    21300014: 3_Piano@1.4x_london
+    21300016: BigBen_sagoma@1.4x_london
+    21300018: PiedistalloEye@1.4x_london
+    21300020: bigben-1
+    21300022: bigben-2
+    21300024: bigben-3
+    21300026: people-6
+    21300028: people-1
+    21300030: people-4
+    21300032: people-9
+    21300034: people-5
+    21300036: people-2
+    21300038: people-7
+    21300040: people-3
+    21300042: people-8
+    21300044: Sprite_0
+    21300046: Sprite_1
+    21300048: Sprite_2
+    21300050: Sprite_3
+    21300052: Sprite_4
+    21300054: Sprite_5
+    21300056: Sprite_6
+    21300058: Sprite_7
+    21300060: Sprite_8
+    21300062: Sprite_9
+    21300064: Sprite_10
+    21300066: Sprite_11
+    21300068: Sprite_12
+    21300070: Sprite_13
+    21300072: Sprite_14
+    21300074: Sprite_15
+    21300076: Sprite_16
+    21300078: Sprite_17
+    21300080: Sprite_18
+    21300082: Sprite_19
+    21300084: Sprite_20
+    21300086: Sprite_21
+    21300088: Risorsa 1@1.4x
+    21300090: bus-2
+    21300092: bus-1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_Piano@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2496
+        height: 748
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PiedistalloEye@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1696
+        width: 256
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 3_Piano@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 748
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-7
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 480
+        width: 132
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-6
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 0
+        width: 116
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 2_Piano@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 1388
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eye@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 816
+        height: 816
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-3
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 480
+        width: 136
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 480
+        width: 132
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Skyline@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 1084
+        height: 948
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-5
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 480
+        width: 124
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BigBen_sagoma@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1660
+        width: 176
+        height: 1300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-2
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 480
+        width: 124
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eye_sagoma@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 824
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Shard_sagoma@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 748
+        width: 284
+        height: 1160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-1
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 480
+        width: 112
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-8
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 480
+        width: 132
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gerkin_sagoma@1.4x_london
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 748
+        width: 332
+        height: 912
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people-4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2196
+        width: 136
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bigben-2
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 456
+        width: 36
+        height: 20
+      alignment: 9
+      pivot: {x: 0.057128906, y: 0.099739075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bigben-1
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1908
+        width: 184
+        height: 1300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bigben-3
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 404
+        width: 28
+        height: 52
+      alignment: 9
+      pivot: {x: 0.8907209, y: 0.058694106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 1@1.4x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 749
+        height: 739
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bus-2
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1260
+        width: 489
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bus-1
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 404
+        width: 73
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

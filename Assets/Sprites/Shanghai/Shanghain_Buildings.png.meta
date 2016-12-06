@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: c7b001828410d77448f7a76b3d145607
+timeCreated: 1479836731
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3_Piano@1.4x_shanghai
+    21300002: 2_Piano@1.4x_shanghai
+    21300004: Edificio_sx_Base@1.4x_shanghai
+    21300006: Palazzo_sagoma@1.4x_Shang
+    21300008: Torre_sagoma@1.4x_Shang
+    21300010: Apribottiglia_sagoma@1.4x_Shang
+    21300012: Grattacielo_sagoma@1.4x_Shang
+    21300014: Edificio_dx@1.4x_shanghai
+    21300016: Mezzaluna@1.4x_shanghai
+    21300018: building 1
+    21300020: clock
+    21300022: Layer-5
+    21300024: flag effect_00004
+    21300026: flag effect_00022
+    21300028: flag effect_00017
+    21300030: flag effect_00005
+    21300032: flag effect_00023
+    21300034: flag effect_00010
+    21300036: flag effect_00000
+    21300038: flag effect_00019
+    21300040: flag effect_00021
+    21300042: flag effect_00018
+    21300044: flag effect_00016
+    21300046: flag effect_00006
+    21300048: flag effect_00013
+    21300050: flag effect_00009
+    21300052: flag effect_00025
+    21300054: flag effect_00003
+    21300056: flag effect_00008
+    21300058: flag effect_00012
+    21300060: flag effect_00001
+    21300062: flag effect_00020
+    21300064: flag effect_00007
+    21300066: flag effect_00011
+    21300068: flag effect_00014
+    21300070: flag effect_00002
+    21300072: flag effect_00024
+    21300074: flag effect_00015
+    21300076: pole
+    21300078: Sprite_0
+    21300080: Sprite_1
+    21300082: Sprite_2
+    21300084: Sprite_3
+    21300086: Sprite_4
+    21300088: Sprite_5
+    21300090: Sprite_6
+    21300092: Sprite_7
+    21300094: Sprite_8
+    21300096: Sprite_9
+    21300098: Sprite_10
+    21300100: Sprite_11
+    21300102: Sprite_12
+    21300104: Sprite_13
+    21300106: Sprite_14
+    21300108: Sprite_15
+    21300110: Sprite_16
+    21300112: Sprite_17
+    21300114: Sprite_18
+    21300116: Sprite_19
+    21300118: Sprite_20
+    21300120: Sprite_21
+    21300122: Sprite_22
+    21300124: Sprite_23
+    21300126: Sprite_24
+    21300128: Sprite_25
+    21300130: Sprite_26
+    21300132: Sprite_27
+    21300134: Sprite_28
+    21300136: Sprite_29
+    21300138: Sprite_30
+    21300140: Sprite_31
+    21300142: Sprite_32
+    21300144: Sprite_33
+    21300146: Sprite_34
+    21300148: Sprite_35
+    21300150: Sprite_36
+    21300152: Sprite_37
+    21300154: Sprite_38
+    21300156: Complete@1.4x_shanghai
+    21300158: boat_00004
+    21300160: boat_00019
+    21300162: boat_00008
+    21300164: boat_00022
+    21300166: boat_00018
+    21300168: boat_00000
+    21300170: boat_00010
+    21300172: boat_00006
+    21300174: boat_00001
+    21300176: boat-top
+    21300178: boat_00016
+    21300180: boat_00005
+    21300182: boat_00013
+    21300184: boat_00003
+    21300186: boat_00015
+    21300188: boat_00009
+    21300190: boat_00025
+    21300192: boat_00007
+    21300194: boat_00011
+    21300196: boat_00012
+    21300198: boat_00017
+    21300200: boat_00021
+    21300202: boat_00014
+    21300204: boat_00023
+    21300206: boat_00020
+    21300208: boat_00024
+    21300210: boat_00002
+    21300212: Risorsa 1@1.4x
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edificio_dx@1.4x_shanghai
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 758
+        width: 211
+        height: 743
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 2_Piano@1.4x_shanghai
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 1842
+        height: 1033
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 3_Piano@1.4x_shanghai
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 2151
+        height: 998
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mezzaluna@1.4x_shanghai
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 192
+        width: 225
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Grattacielo_sagoma@1.4x_Shang
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2791
+        width: 226
+        height: 1293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Apribottiglia_sagoma@1.4x_Shang
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1757
+        width: 273
+        height: 1413
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Palazzo_sagoma@1.4x_Shang
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 758
+        width: 696
+        height: 915
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Torre_sagoma@1.4x_Shang
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1757
+        width: 313
+        height: 1350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Edificio_sx_Base@1.4x_shanghai
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2850
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00004
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2522
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00019
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2607
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00008
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2791
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00022
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2876
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00018
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2961
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00000
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3046
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00010
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3131
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00006
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3216
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00001
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3301
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat-top
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 0
+        width: 964
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00016
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3386
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00005
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3471
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00013
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3556
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00003
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3641
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00015
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3726
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00009
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3811
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00025
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3896
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00007
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3981
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00011
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1757
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00012
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1842
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00017
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1927
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00021
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2012
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00014
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2097
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00023
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2182
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00020
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2267
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00024
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2352
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: boat_00002
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2437
+        width: 1200
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00015
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 659
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00007
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 452
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00003
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00017
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 65
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00024
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00025
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 65
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00011
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00008
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00004
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 65
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00013
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 65
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00019
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 659
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00023
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 659
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00021
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 659
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00001
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 659
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00006
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 582
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00022
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00005
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 257
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00018
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 322
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00014
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 387
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building 1
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 758
+        width: 696
+        height: 876
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00000
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 517
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pole
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 130
+        width: 5
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00016
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 452
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Layer-5
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 130
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.91843826, y: 0.06624603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clock
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 149
+        width: 6
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00002
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 647
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00012
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00009
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 257
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00020
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 322
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flag effect_00010
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 387
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Risorsa 1@1.4x
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 192
+        width: 340
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

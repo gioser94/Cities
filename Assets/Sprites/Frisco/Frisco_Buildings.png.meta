@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 9a310caa7190c24428ecf5bd3dd47360
+timeCreated: 1478869381
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3_Piano@1.4x_frisco
+    21300002: 2_Piano@1.4x_frisco
+    21300004: Grattacieli@1.4x_frisco
+    21300006: GGB_sagoma@1.4x_frisco
+    21300008: 1_Piano@1.4x_frisco
+    21300010: Lombard_sagoma@1.4x_frisco
+    21300012: China_sagoma@1.4x_frisco
+    21300014: Edificio_sagoma@1.4x_frisco
+    21300016: boat_00024
+    21300018: boat_00010
+    21300020: boat_00023
+    21300022: boat_00006
+    21300024: boat_00017
+    21300026: boat_00012
+    21300028: boat_00000
+    21300030: boat_00008
+    21300032: boat_00004
+    21300034: boat_00021
+    21300036: boat_00022
+    21300038: boat_00001
+    21300040: boat_00005
+    21300042: boat_00025
+    21300044: boat_00011
+    21300046: boat_00016
+    21300048: boat_00002
+    21300050: boat_00014
+    21300052: boat_00003
+    21300054: boat_00018
+    21300056: boat_00009
+    21300058: boat_00013
+    21300060: boat_00015
+    21300062: boat_00007
+    21300064: boat_00020
+    21300066: boat_00019
+    21300068: GGB@1.4x_frisco
+    21300070: Lombard@1.4x_frisco
+    21300072: China@1.4x_frisco
+    21300074: Sprite_11
+    21300076: Sprite_12
+    21300078: Sprite_13
+    21300080: Sprite_14
+    21300082: Sprite_15
+    21300084: Sprite_16
+    21300086: Sprite_17
+    21300088: Sprite_18
+    21300090: Sprite_19
+    21300092: Sprite_20
+    21300094: 1_Piano@1.4x_frisco
+    21300096: Lombard@1.4x_frisco
+    21300098: GGB_sagoma@1.4x_frisco
+    21300100: Grattacieli@1.4x_frisco
+    21300102: GGB@1.4x_frisco
+    21300104: Edificio_sagoma@1.4x_frisco
+    21300106: 2_Piano@1.4x_frisco
+    21300108: China@1.4x_frisco
+    21300110: Lombard_sagoma@1.4x_frisco
+    21300112: China_sagoma@1.4x_frisco
+    21300114: car
+    21300116: window
+    21300118: red-car
+    21300120: blue-car
+    21300122: wheel01
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3_Piano@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2364
+        height: 931
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 2_Piano@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 1759
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Grattacieli@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 0
+        width: 1559
+        height: 789
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GGB_sagoma@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 931
+        width: 1767
+        height: 626
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GGB@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1557
+        width: 1767
+        height: 626
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1_Piano@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2183
+        width: 2459
+        height: 449
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lombard@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 789
+        width: 469
+        height: 817
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lombard_sagoma@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 1606
+        width: 469
+        height: 815
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: China_sagoma@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2183
+        width: 669
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: China@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 2421
+        width: 669
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Edificio_sagoma@1.4x_frisco
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 2421
+        width: 261
+        height: 792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 2183
+        width: 92
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: window
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2183
+        width: 92
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red-car
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2183
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blue-car
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2205
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wheel01
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 2205
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
